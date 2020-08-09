@@ -16,8 +16,8 @@ After cloning this repository, please follow the steps below to run the server.p
 1) In the first terminal, log into flip1 and run the following command in the directory containing the server.py file:\
     chmod +x server.py 
 
-2) Run the server.py program using the following command in the directory containing the server.py file:
-    \python server.py <port #>
+2) Run the server.py program using the following command in the directory containing the server.py file:\
+    python server.py <port #>
 
     - Please note you will choose a port # for the server to run on
 
